@@ -6,3 +6,6 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/serv-side-encryption.html
 
 # S3 object ownership
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.html
+
+# Iam external id
+https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user_externalid.html
