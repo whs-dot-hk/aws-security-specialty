@@ -9,3 +9,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/about-object-ownership.htm
 
 # Iam external id
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user_externalid.html
+
+# S3 bucket policy
+https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html
