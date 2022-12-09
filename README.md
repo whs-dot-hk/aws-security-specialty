@@ -13,3 +13,6 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user_extern
 # S3 bucket policy
 https://aws.amazon.com/blogs/security/iam-policies-and-bucket-policies-and-acls-oh-my-controlling-access-to-s3-resources/
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html
+
+# Trusted advisor
+https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html
