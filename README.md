@@ -16,3 +16,10 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.ht
 
 # Trusted advisor
 https://docs.aws.amazon.com/awssupport/latest/user/trusted-advisor-check-reference.html
+* Public snapshots
+* Security group - specific ports unrestricted, unrestricted access
+* SSL certificates
+* ELB
+* IAM access key rotation
+* IAM password policy
+* MFA on root account
